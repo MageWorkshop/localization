@@ -11,3 +11,4 @@
 "Rated %s out of %s stars. Based on %s Reviews","Rated %s out of %s stars. Based on %s Reviews"
 "Max recipients limit exceeded.","Max recipients limit exceeded."
 "Maximum %s email addresses allowed.","Maximum %s email addresses allowed."
+"It looks like Detailed Review extension is not enabled. Please enable it for correct work of Review Wall module","It looks like Detailed Review extension is not enabled. Please enable it for correct work of Review Wall module"
