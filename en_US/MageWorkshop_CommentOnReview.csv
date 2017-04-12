@@ -94,3 +94,5 @@
 "Please check ReCaptcha ""Private Key"" configuration in ""Captcha Options"" "
 "<strong class=""label"">MageWorkshop CommentOnReview: </strong><strong>Please check ReCaptcha ""Private Key"" configuration in ""Captcha Options"" </strong><a href=""%s"">go to MageWorkshop CommentOnReview configuration</a>","<strong class=""label"">MageWorkshop CommentOnReview: </strong><strong>Please check ReCaptcha ""Private Key"" configuration in ""Captcha Options"" </strong><a href=""%s"">go to MageWorkshop CommentOnReview configuration</a>"
 "All Comments","All Comments"
+"Visit <a href='https://www.google.com/recaptcha/admin#list' target='_blank'>Google ReCaptcha Settings</a> to receive public key for your domain","Visit <a href='https://www.google.com/recaptcha/admin#list' target='_blank'>Google ReCaptcha Settings</a> to receive public key for your domain"
+"Visit <a href='https://www.google.com/recaptcha/admin#list' target='_blank'>Google ReCaptcha Settings</a> to receive private key for your domain","Visit <a href='https://www.google.com/recaptcha/admin#list' target='_blank'>Google ReCaptcha Settings</a> to receive private key for your domain"
